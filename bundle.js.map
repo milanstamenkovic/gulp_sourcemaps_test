@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA","file":"bundle.js","sourcesContent":["(function(){\r\n    var x = 10;\r\n    console.log(x);\r\n})();"]}
